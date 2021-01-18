@@ -1,0 +1,1 @@
+Le but du projet est de partagé des fichiers html et css.Afin travailler à plusieurs dessus facilement.
